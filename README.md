@@ -102,7 +102,7 @@ This repository contains the source code for User Registration System. This docu
 
 ## Project architecture
 
-For a detailed guide through the project architecture and more information on configuring and deploying the system, please watch our YouTube Video Tutorial (Please scroll to the top ^)
+For a detailed guide through the project architecture and more information on configuring and deploying the system, please watch our YouTube Video Tutorial. (Please scroll to the top ^)
 
 
 ```
